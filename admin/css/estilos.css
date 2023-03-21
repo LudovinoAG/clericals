@@ -1,0 +1,223 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#contenedor{
+	width: 100%;
+	height: 150px;
+	background-color: rgb(0,130,208);
+	margin: 200px auto;
+}
+
+#ContFormulario{
+	background-color: rgba(158,158,158, 0.9);
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	margin-top: -410px;
+	text-align: center;
+	margin-left: 40%;
+	border-radius: 5px;
+
+}
+
+#form{
+	text-align: center;
+}
+
+#logo{
+	width: 30%;
+}
+
+#picfondo{
+	margin-top: 5px;
+}
+
+.lbl-format{
+font-size: 1.1em;
+font-weight: bold;
+}
+
+.txt-format{
+	border-radius: 5px;
+}
+
+input{
+	font-size: 1.0em;
+	text-align: center;
+}
+
+#mensaje{
+	font-size: 0.8em;
+	color: brown;
+	font-weight: bold;
+	margin-left: 40.2%;
+	margin-top: -100px;
+}
+
+#footer{
+	font-size: 0.8em;
+	font-weight: bold;
+	color: grey;
+	margin-left: 43%;
+
+}
+
+#BarUser{
+	
+	width: 100%;
+	text-align: right;
+	font-size: 1.2em;
+	background: url(Encabezado.png) no-repeat;
+}
+
+#TitleUsuario{
+	font-size: 0.8em;
+	font-weight: bolder;
+	margin: -10px;
+}
+
+#Cabecera{
+	text-align: center;
+	margin-top: 2%;
+	font-weight: bolder;
+	font-size: 1.5em;
+}
+
+#LblOrden{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblMACActual{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblCliente{
+	font-weight: bolder;
+	text-align: center;
+
+}
+
+#LblContactos{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblTrata{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblStatus{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblMacFinal{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#LblComentario{
+	font-weight: bolder;
+	text-align: center;
+}
+
+#Casos{
+	font-weight: bold;
+	color: brown;
+}
+
+#Botones{
+	float: left;
+}
+
+#txtNotas{
+	resize: none;
+}
+
+#Mensaje{
+	width: 35%;
+	margin-top: -3.5%;
+	margin-left: 36.1%;
+	font-size: 1.0em;
+}
+
+#BthBotones{
+	margin: 1% 15%;
+}
+
+#filasData{
+	font-size: 0.8em;
+}
+
+.Encabezado{
+	font-weight: bold;
+	font-size: 0.9em;
+}
+
+
+#LstStatus{
+	font-weight: bold;
+	color: white;
+}
+
+#LstRazon{
+	font-weight: bold;
+	color: white;
+}
+
+.RAZONCLOSE{
+	display: none;
+}
+
+.RAZONOPEN{
+	display: inline;
+}
+
+#Note{
+	color: grey;
+}
+
+#logoInicio{
+	width: 170px;
+	height: 170px;
+}
+
+#logo{
+	width: 100px;
+	height: 100px;
+}
+
+
+#logoBar{
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 0.5%;
+
+	margin-left: 0.5%;
+}
+
+
+.FormatBTN{
+	font-weight: bold;
+
+}
+
+.FormatSEG{
+	margin-left: -1%;
+}
+
+
+
+
+
+
+
+
+
+

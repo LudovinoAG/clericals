@@ -1,0 +1,158 @@
+
+body{
+	background-color: teal;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-size: 2.0em;
+}
+
+
+
+.tituloE{
+	font-size: 1.5em;
+}
+
+.tituloE2{
+	font-size: 1.5em;
+	color: white;
+}
+
+.row-format{
+	background-color: grey;
+	font-size: 0.8em;
+	width: 100px;
+
+}
+
+.row-format2{
+	background-color: gold;
+	font-size: 1.2em;
+	font-weight: bold;
+	width: 100px;
+
+}
+
+#tabla{
+	background-color: gold;
+	font-weight: bold;
+}
+
+#tablademora{
+	background-color: gold;
+	font-weight: bold;
+	font-size: 0.7em;
+	width: 2000px;
+}
+
+#tablademora2{
+	font-size: 0.7em;
+	width: 2000px;
+}
+
+#lblTitleEmision{
+	margin-left: 13px;
+}
+
+#lblTitleVender{
+	margin-left: 55px;
+}
+
+#lblTitleVenderCode{
+	margin-left: 21px;
+}
+
+#lblTitleVenderCanal{
+	margin-left: 80px;
+}
+
+
+.TxtFormat{
+	border-radius: 5px;
+	box-shadow: 6px 0px 5px 2px teal;
+}
+
+#lblTitleCops{
+	margin-left: 76px;
+}
+
+#lblTitleOsadia{
+	margin-left: 55px;
+}
+
+#lblTitleM6{
+	margin-left: 93px;
+}
+
+#lblTitleMAC{
+	margin-left: 79px;
+}
+
+
+#Contenedor{
+	padding: 50px;
+	width: 600px;
+	height: 400px;
+	background-color: rgba(152,152,152, 0.8);
+	margin: 0 auto;
+	border-radius: 0px 0px 7px 7px;
+	box-shadow: 0px 10px 15px 5px black;
+}
+
+.lbl-format{
+	color: white;
+}
+
+#PIC{
+	margin-top: -250px;
+	width: 300px;
+	height: 150px;
+	background-color: white;
+	border-radius: 7px 7px 7px 7px;
+	float: right;
+	opacity: 0.8;
+}
+
+#Parrafo{
+	text-align: center;
+	margin-top: 25px;
+}
+
+
+#botones{
+	text-align: center;
+	margin-top: 25px;
+
+}
+
+#contenidoGeneral{
+	background-color: grey;
+}
+
+#TablaReportes{
+	font-size: 0.8em;
+}
+
+#tituloPrincipal{
+	
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+}
+
+#tituloEmitidas{
+	font-size: 0.8em;
+}
+
+#Controles{
+	width: 100%;
+	text-align: center;
+
+}
+
+#BthBuscar{
+	width: 250px;
+}
+
